@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter And React JS**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript and Dart**
 
 - 📫 How to reach me **maulanakhairuman2004@gmail.com**
 
